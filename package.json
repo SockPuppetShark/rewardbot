@@ -1,0 +1,17 @@
+{
+  "name": "reward-bot",
+  "version": "1.0.0",
+  "description": "Vanilla Anarchy Minecraft Reward Bot for Discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PanicJack",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.10.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.39.0"
+  }
+}
